@@ -1,0 +1,6 @@
+{
+  "parent": "moreweapons:item/template/template_big_handheld",
+  "textures": {
+    "layer0": "moreweapons:item/gold_greataxe"
+  }
+}

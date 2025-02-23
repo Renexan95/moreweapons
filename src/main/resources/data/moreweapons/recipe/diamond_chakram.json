@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "group": "weapons",
+    "pattern": [
+        "nin",
+        "isi",
+        "nin"
+    ],
+    "key": {
+        "n": {
+            "item": "minecraft:iron_nugget"
+        },
+        "i": {
+            "item": "minecraft:iron_ingot"
+        },
+        "s": {
+            "item": "moreweapons:enforced_stick"
+        }
+    },
+    "result": {
+        "id": "moreweapons:enforced_stick",
+        "count": 1
+    },
+    "show_notification": true
+}

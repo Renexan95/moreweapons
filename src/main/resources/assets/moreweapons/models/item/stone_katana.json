@@ -1,0 +1,6 @@
+{
+  "parent": "moreweapons:item/template/template_katana",
+  "textures": {
+    "layer0": "moreweapons:item/stone_katana"
+  }
+}

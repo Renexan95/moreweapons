@@ -1,0 +1,6 @@
+{
+  "parent": "moreweapons:item/template/template_longsword",
+  "textures": {
+    "layer0": "moreweapons:item/gold_longsword"
+  }
+}

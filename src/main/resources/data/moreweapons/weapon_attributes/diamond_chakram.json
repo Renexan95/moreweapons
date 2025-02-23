@@ -1,0 +1,27 @@
+{
+    "parent": "bettercombat:axe",
+    "attributes": {
+        "attack_range": 1.8,
+        "category": "soul_knife",
+        "attacks": [
+            {
+                "hitbox": "HORIZONTAL_PLANE",
+                "angle": 90,
+                "upswing": 0.5,
+                "animation": "bettercombat:one_handed_slash_horizontal_right",
+                "swing_sound": {
+                    "id": "bettercombat:dagger_slash"
+                }
+            },
+            {
+                "hitbox": "HORIZONTAL_PLANE",
+                "angle": 90,
+                "upswing": 0.5,
+                "animation": "bettercombat:one_handed_slash_horizontal_right",
+                "swing_sound": {
+                    "id": "bettercombat:dagger_slash"
+                }
+            }
+        ]
+    }
+}

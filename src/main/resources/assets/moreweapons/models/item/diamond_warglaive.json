@@ -1,0 +1,6 @@
+{
+  "parent": "moreweapons:item/template/template_warglaive",
+  "textures": {
+    "layer0": "moreweapons:item/diamond_warglaive"
+  }
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "bettercombat:halberd",
+    "attributes": {
+        "range_bonus": 0.75,
+        "two_handed": true,
+        "category": "halberd"
+    }
+}

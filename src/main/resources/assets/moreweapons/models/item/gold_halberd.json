@@ -1,0 +1,6 @@
+{
+  "parent": "moreweapons:item/template/template_long_handheld",
+  "textures": {
+    "layer0": "moreweapons:item/gold_halberd"
+  }
+}

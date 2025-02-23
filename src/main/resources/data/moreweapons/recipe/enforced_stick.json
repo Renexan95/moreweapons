@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "material",
+  "pattern": [
+    "  /",
+    "sL ",
+    "/s"
+  ],
+  "key": {
+    "/": {
+      "item": "minecraft:stick"
+    },
+    "s": {
+      "item": "minecraft:string"
+    },
+    "L": {
+      "item": "minecraft:leather"
+    }
+  },
+  "result": {
+    "id": "moreweapons:enforced_stick",
+    "count": 1
+  },
+  "show_notification": true
+}
