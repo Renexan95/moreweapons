@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "in ",
+    "i",
+    "s"
+  ],
+  "key": {
+    "n": {
+      "item": "moreweapons:diamond_shard"
+    },
+    "i": {
+      "item": "minecraft:diamond"
+    },
+    "s": {
+      "item": "moreweapons:enforced_stick"
+    }
+  },
+  "result": {
+    "id": "moreweapons:diamond_cutlass"
+  }
+}

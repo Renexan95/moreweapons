@@ -1,6 +1,6 @@
 {
-  "parent": "moreweapons:item/template/template_warglaive",
+  "parent": "moreweapons:item/template/template_warglaive_3D",
   "textures": {
-    "layer0": "moreweapons:item/diamond_warglaive"
+    "layer0": "moreweapons:item/diamond_warglaive_3d"
   }
 }

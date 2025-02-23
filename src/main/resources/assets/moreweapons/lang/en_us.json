@@ -1,7 +1,8 @@
 {
-  "itemgroup.MoreWeapons.moreweapons_items": "More weapons",
+  "itemgroup.moreweapons.moreweapons_items": "More weapons",
 
   "item.moreweapons.enforced_stick": "Enforced Stick",
+  "item.moreweapons.diamond_shard" : "Diamond shard",
 
   "item.moreweapons.stone_chakram": "Stone Chakram",
   "item.moreweapons.stone_claymore": "Stone Claymore",

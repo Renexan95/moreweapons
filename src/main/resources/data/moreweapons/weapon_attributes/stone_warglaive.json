@@ -2,6 +2,7 @@
     "attributes": {
         "attack_range": 2.6,
         "two_handed": true,
+        "pose": "bettercombat:pose_two_handed_heavy",
         "category": "warglaive",
         "attacks": [
             {

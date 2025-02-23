@@ -12,6 +12,8 @@ public class MoreWeaponsItem {
     // Items registration
     // Essential for crafting
     public static final Item ENFORCED_STICK = registerItem("enforced_stick", new Item(new Item.Settings()));
+    public static final Item DIAMOND_SHARD = registerItem("diamond_shard", new Item(new Item.Settings()));
+
 
     // Stone Set
     public static final Item STONE_CHAKRAM = registerItem("stone_chakram", new SwordItem(ToolMaterials.STONE, new Item.Settings().attributeModifiers(SwordItem.createAttributeModifiers(ToolMaterials.STONE, 3, -2.0F))));

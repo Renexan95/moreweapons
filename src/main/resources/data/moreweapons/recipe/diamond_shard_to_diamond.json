@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "nnn",
+    "nnn",
+    "nnn"
+  ],
+  "key": {
+    "n": {
+      "item": "moreweapons:diamond_shard"
+    }
+  },
+  "result": {
+    "id": "minecraft:diamond"
+  }
+}

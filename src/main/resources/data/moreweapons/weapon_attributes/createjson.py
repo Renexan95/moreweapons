@@ -14,7 +14,7 @@ def create_json_files():
     # Crea un file JSON per ciascun nome
     for item in items:
         json_data = {
-
+            "parent": "bettercombat:"
         }
 
         # Scrive il file JSON

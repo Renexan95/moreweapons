@@ -18,6 +18,7 @@ public class MoreWeaponsGroup {
                     .displayName(Text.translatable("itemgroup.MoreWeapons.moreweapons_items"))
                     .entries((displayContext, entries) -> {
                         entries.add(MoreWeaponsItem.ENFORCED_STICK);
+                        entries.add(MoreWeaponsItem.DIAMOND_SHARD);
                         entries.add(MoreWeaponsItem.STONE_CHAKRAM);
                         entries.add(MoreWeaponsItem.STONE_CLAYMORE);
                         entries.add(MoreWeaponsItem.STONE_CUTLASS);
