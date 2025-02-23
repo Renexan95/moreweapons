@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "pattern": [
+        "in ",
+        "i  ",
+        "s  "
+    ],
+    "key": {
+        "n": {
+            "item": "minecraft:iron_nugget"
+        },
+        "i": {
+            "item": "minecraft:iron_ingot"
+        },
+        "s": {
+            "item": "moreweapons:enforced_stick"
+        }
+    },
+    "result": {
+        "id": "moreweapons:iron_cutlass"
+    }
+}

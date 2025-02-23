@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+        "nnn",
+        "nnn",
+        "nnn"
+    ],
+    "key": {
+        "n": {
+            "item": "minecraft:iron_nugget"
+        }
+    },
+    "result": {
+        "id": "minecraft:cobblestone"
+    }
+}

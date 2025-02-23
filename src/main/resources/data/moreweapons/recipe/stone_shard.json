@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "pattern": [
+        "nnn",
+        "nnn",
+        "nnn"
+    ],
+    "key": {
+        "n": {
+            "item": "minecraft:iron_nugget"
+        }
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:cobblestone"
+        }
+    ],
+    "result": {
+        "id": "minecraft:iron_nugget",
+        "count": 9
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "pattern": [
+        "i ",
+        "i ",
+        "sn"
+    ],
+    "key": {
+        "n": {
+            "item": "minecraft:iron_nugget"
+        },
+        "i": {
+            "item": "minecraft:cobblestone"
+        },
+        "s": {
+            "item": "moreweapons:enforced_stick"
+        }
+    },
+    "result": {
+        "id": "moreweapons:stone_rapier"
+    }
+}
